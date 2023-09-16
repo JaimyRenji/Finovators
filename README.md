@@ -1,4 +1,5 @@
 <h1 align="center">SmartWallet</h1>
+SmartWallet is our expense tracker website curated for the MEC Hack.
 
 ## TEAM MEMBERS:
 
