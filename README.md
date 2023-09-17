@@ -33,4 +33,10 @@ Sign Up Page
 Dashboard
 ![Dashboard](https://github.com/JaimyRenji/SmartWallet/assets/117106823/b660afc1-e665-4d82-ba21-94f8c3e53316)
 
+Adding Expenses
+![Adding expenses](https://github.com/JaimyRenji/SmartWallet/assets/117106823/f2daaaaa-c95f-4a1a-ae7e-103f54d0f7d2)
+
+Tracking Expenses
+![Tracking expense](https://github.com/JaimyRenji/SmartWallet/assets/117106823/3b640341-ab10-40f0-92b6-7b32e92fa973)
+
 
