@@ -26,11 +26,9 @@ People usually deal with certain financial obstacles such as;
 
 Landing Page
 ![Landing Page](https://github.com/JaimyRenji/SmartWallet/assets/117106823/20ff4342-1f4d-4c8f-a0f6-3afa51fe9469)
-<br>
 
 Sign Up Page
 ![Sign in Page](https://github.com/JaimyRenji/SmartWallet/assets/117106823/d3289368-6a47-477e-9b6f-fd41350534a9)
-
 
 Dashboard
 ![Dashboard](https://github.com/JaimyRenji/SmartWallet/assets/117106823/b660afc1-e665-4d82-ba21-94f8c3e53316)
