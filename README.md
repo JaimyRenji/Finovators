@@ -24,5 +24,5 @@ People usually deal with certain financial obstacles such as;
 - User based login system using Firebase.
 - Simple UI.
 
-![Employee data](http://imageurl "Employee Data title")
+![Landing Page](https://github.com/JaimyRenji/SmartWallet/blob/main/SmartWallet%20User%20Interface/Landing%20Page.png) "Landing Page")
 
